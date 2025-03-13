@@ -45,7 +45,7 @@ pip install python-whois
 
 ⚠️ Este proyecto no tiene licencia pública, lo que significa que su uso y distribución están restringidos. Para consultas comerciales, contactame.
 
-📩 Contacto: rusithoo@example.com (reemplazar con tu email real)
+📩 Contacto: thom19r@gmail.com
 
 ⭐ Contribuciones y mejoras
 
